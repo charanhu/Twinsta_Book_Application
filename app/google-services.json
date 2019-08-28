@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1075083633564",
+    "firebase_url": "https://twinstabook-d16ae.firebaseio.com",
+    "project_id": "twinstabook-d16ae",
+    "storage_bucket": "twinstabook-d16ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075083633564:android:1d7989149e7dd99c",
+        "android_client_info": {
+          "package_name": "com.example.twinstabook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075083633564-bi5ss0je12cvs0gq8bdmh126b2lfls01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.twinstabook",
+            "certificate_hash": "2d6ae0f29b166e76b70f13f992309b9a721a7d3c"
+          }
+        },
+        {
+          "client_id": "1075083633564-121ia92gdfpli7m9lol7dbc3l5o77si2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj0bgEJxuX69SiM4XYD-9deMz8BWgJ0ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075083633564-121ia92gdfpli7m9lol7dbc3l5o77si2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
